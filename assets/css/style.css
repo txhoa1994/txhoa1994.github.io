@@ -67,6 +67,8 @@ html {
     margin-top: 15px;
     border: none;
     text-align: center;
+    appearance: none;
+    -webkit-appearance: none;
 }
 
 .btn:hover {
@@ -201,6 +203,7 @@ html {
 #slider .text-description {
     font-size: 15px;
     margin-top: 25px;
+    text-shadow: 0 0 2px #000;
 }
 
 #content .content-section {

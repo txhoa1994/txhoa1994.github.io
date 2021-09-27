@@ -15,10 +15,15 @@
 
     .contact-form .form-control {
         padding: 15px;
+        font-size: 16px;
     }
 
     .contact-info {
         line-height: 2;
+    }
+
+    .s-submit-btn {
+        font-size: 16px;
     }
 
     #footer .social-list {
@@ -41,7 +46,7 @@
 }   
 
 /* mobile */
-@media (max-width: 740px) {
+@media (max-width: 739px) {
     .s-full-width, .s-col-full {
         width: 100%;
     }
